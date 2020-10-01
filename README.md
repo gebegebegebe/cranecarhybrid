@@ -8,8 +8,8 @@ by the motors it can pick objects up from any place on the
 ground.
 
 This project was a collaborative effort between:
-Yosavath Otniel
-Darian Soetanto
+Yosavath Otniell,
+Darian Soetanto, and
 Gabriel Kaunang
 
 and a special mention to our IT teacher Ronny Laluyan for his
