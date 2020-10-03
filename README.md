@@ -1,16 +1,14 @@
-# cranecarhybrid
-This code was the code of our final project in high school.
-This project is basically a hybrid between a crane and a car.
-This robot has 2 motor wheels with one free wheel which will 
-support the robots movement. The crane itself has 4 degrees 
-of freedom and with the combination of the movement granted 
-by the motors it can pick objects up from any place on the 
-ground.
+# Projects of Gabriel Kaunang
+This is a list of code and programs I did during my time 
+in high school until the present day. All of these codes 
+were made either by me or done through the collaboration
+with a few of my friends.
 
-This project was a collaborative effort between:
-Yosavath Otniell,
-Darian Soetanto, and
-Gabriel Kaunang
+Special thanks to the following for helping me in a few 
+group projects:
 
-and a special mention to our IT teacher Ronny Laluyan for his
-supervision.
+Yosavath Otniell
+Darian Soetanto
+
+and a special mention to my IT teacher sir Ronny Laluyan 
+for his supervision and mentorship.
