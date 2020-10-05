@@ -10,7 +10,7 @@ http://gebegebegebe.000webhostapp.com/finalexam/login.php
 Special thanks to the following for helping me in a few 
 group projects:
 
-Yosavath Otniell
+Yosavath Otniell and
 Darian Soetanto
 
 and a special mention to my IT teacher sir Ronny Laluyan 
