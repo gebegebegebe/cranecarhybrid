@@ -13,5 +13,3 @@ group projects:
 Yosavath Otniell and
 Darian Soetanto
 
-and a special mention to my IT teacher sir Ronny Laluyan 
-for his supervision and mentorship.
