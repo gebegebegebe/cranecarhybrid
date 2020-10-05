@@ -2,10 +2,6 @@
 #include <vector>
 using namespace std;
 
-int solver(int a, int b){
-    
-}
-
 int main()
 {
     int l,r;
