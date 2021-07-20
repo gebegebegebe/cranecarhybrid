@@ -6,10 +6,3 @@ of my friends.
 
 Don't forget to visit my site!
 http://gebegebegebe.000webhostapp.com/finalexam/login.php
-
-Special thanks to the following for helping me in a few 
-group projects:
-
-Yosavath Otniell and
-Darian Soetanto
-
